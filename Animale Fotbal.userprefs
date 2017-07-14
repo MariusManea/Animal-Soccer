@@ -1,0 +1,60 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Main Menu\Scripts\StartButton.cs">
+    <Files>
+      <File FileName="Assets\Main Menu\Scripts\Left_Timer_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Selected.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Right_Timer_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\YesButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NoButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BombExplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\SetBG.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Right_Obstacles_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerUpSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LeftPlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RightPlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\PlayButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\ExitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\StartButton.cs" Line="49" Column="46" />
+      <File FileName="Assets\Main Menu\Scripts\Right_Right_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Right_Mods_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Right_Left_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Left_Right_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Left_Obstacles_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Left_Mods_Arrow_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\SettingsButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\SettingTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\XSettingsButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SuperCannon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bomber.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerUpPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Power-ups\Dead_Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Power-ups\Bouncy_Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CollisionSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GOOOOAL.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Power-ups\Ally_Wall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Right_Wall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Left_Wall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\BackArrow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LeftStriker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RightStriker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Power-ups\Cannon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\Volume_Slider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\HelpButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\AudioSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\SwitchButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\SetControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pause_Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mute_Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main Menu\Scripts\LoadingGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShadowCaster.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
