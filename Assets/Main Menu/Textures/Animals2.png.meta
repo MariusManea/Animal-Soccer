@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: cd1c3e0fb71549c479f2cc9d61b9b8d4
+timeCreated: 1491582858
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 11Zebra
+    21300002: 11Zebra1
+    21300004: 12Wolf
+    21300006: 13Tiger
+    21300008: 14Crocodile
+    21300010: 15Penguin
+    21300012: Animals2_6
+    21300014: 11Zebra2
+    21300016: 12Wolf1
+    21300018: 12Wolf2
+    21300020: 12Wolf3
+    21300022: 13Tiger1
+    21300024: 13Tiger2
+    21300026: 14Crocodile1
+    21300028: 14Crocodile2
+    21300030: 14Crocodile3
+    21300032: Animals2_3
+    21300034: 15Penguin1
+    21300036: 15Penguin2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 11Zebra
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1905
+        width: 201
+        height: 254
+      alignment: 9
+      pivot: {x: 0.42670718, y: 0.03154316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 11Zebra1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1903
+        width: 201
+        height: 253
+      alignment: 9
+      pivot: {x: 0.4267071, y: 0.031931277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 12Wolf
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1565
+        width: 182
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5191352, y: 0.016332671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 13Tiger
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1215
+        width: 164
+        height: 247
+      alignment: 9
+      pivot: {x: 0.49683332, y: 0.018243333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 14Crocodile
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 870
+        width: 269
+        height: 245
+      alignment: 9
+      pivot: {x: 0.53351134, y: 0.026636738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 15Penguin
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 577
+        width: 148
+        height: 200
+      alignment: 9
+      pivot: {x: 0.3138204, y: 0.017048035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 11Zebra2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1905
+        width: 198
+        height: 240
+      alignment: 9
+      pivot: {x: 0.37408662, y: 0.030186463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 12Wolf1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1564
+        width: 189
+        height: 219
+      alignment: 9
+      pivot: {x: 0.49507052, y: 0.015844058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 12Wolf2
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1563
+        width: 197
+        height: 217
+      alignment: 9
+      pivot: {x: 0.47949964, y: 0.016193723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 12Wolf3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1560
+        width: 209
+        height: 213
+      alignment: 9
+      pivot: {x: 0.47616446, y: 0.02155372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 13Tiger1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1219
+        width: 169
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5005746, y: 0.018986978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 13Tiger2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1213
+        width: 171
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49412635, y: 0.022581495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 14Crocodile1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 873
+        width: 271
+        height: 245
+      alignment: 9
+      pivot: {x: 0.52967346, y: 0.026195541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 14Crocodile2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 870
+        width: 273
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5253962, y: 0.026179159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 14Crocodile3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 870
+        width: 262
+        height: 250
+      alignment: 9
+      pivot: {x: 0.55132407, y: 0.026261963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 15Penguin1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 580
+        width: 158
+        height: 196
+      alignment: 9
+      pivot: {x: 0.2887467, y: 0.01828688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 15Penguin2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 581
+        width: 153
+        height: 196
+      alignment: 9
+      pivot: {x: 0.29721648, y: 0.017715765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

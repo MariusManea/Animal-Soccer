@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 9c5098d1fd12cb34481cd92f369daaad
+timeCreated: 1491582718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fox
+    21300002: Animals1_01
+    21300004: Animals1_02
+    21300006: Fox1
+    21300008: Fox2
+    21300010: 3Bear
+    21300012: 4Ram
+    21300014: 5Lion
+    21300016: 6Kangaroo
+    21300018: 7Monkey
+    21300020: 8Boar
+    21300022: 9Bull
+    21300024: 10Beaver
+    21300026: Stag1
+    21300028: Stag2
+    21300030: Animals1_15
+    21300032: Fox3
+    21300034: Stag
+    21300036: 1Fox
+    21300038: 1Fox1
+    21300040: 1Fox2
+    21300042: 1Fox3
+    21300044: 2Stag
+    21300046: 2Stag1
+    21300048: 2Stag2
+    21300050: 2Stag3
+    21300052: 3Bear1
+    21300054: 3Bear2
+    21300056: 4Ram1
+    21300058: 4Ram2
+    21300060: 4Ram3
+    21300062: 4Ram3
+    21300064: 5Lion1
+    21300066: 5Lion2
+    21300068: 6Kangaroo1
+    21300070: 6Kangaroo2
+    21300072: 7Monkey1
+    21300074: 7Monkey2
+    21300076: 7Monkey3
+    21300078: 8Boar1
+    21300080: 8Boar2
+    21300082: 8Boar3
+    21300084: 9Bull1
+    21300086: 9Bull2
+    21300088: 10Beaver1
+    21300090: 10Beaver2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1Fox
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2985
+        width: 264
+        height: 191
+      alignment: 9
+      pivot: {x: 0.39987376, y: 0.048691355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1Fox1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2984
+        width: 264
+        height: 191
+      alignment: 9
+      pivot: {x: 0.39553416, y: 0.054640207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1Fox2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2982
+        width: 264
+        height: 191
+      alignment: 9
+      pivot: {x: 0.39224336, y: 0.05987197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1Fox3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2982
+        width: 264
+        height: 191
+      alignment: 9
+      pivot: {x: 0.39588743, y: 0.054498322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2Stag
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2650
+        width: 119
+        height: 244
+      alignment: 9
+      pivot: {x: 0.3560404, y: 0.01366287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3Bear
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2320
+        width: 209
+        height: 257
+      alignment: 9
+      pivot: {x: 0.24593507, y: 0.013596828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4Ram
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2021
+        width: 170
+        height: 226
+      alignment: 9
+      pivot: {x: 0.29016176, y: 0.023359181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5Lion
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1722
+        width: 261
+        height: 265
+      alignment: 9
+      pivot: {x: 0.6028112, y: 0.023911502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 6Kangaroo
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1374
+        width: 209
+        height: 243
+      alignment: 9
+      pivot: {x: 0.7317547, y: 0.07015075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7Monkey
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1062
+        width: 173
+        height: 207
+      alignment: 9
+      pivot: {x: 0.52280015, y: 0.03679742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8Boar
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 758
+        width: 206
+        height: 227
+      alignment: 9
+      pivot: {x: 0.3230499, y: 0.024688048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9Bull
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 440
+        width: 238
+        height: 277
+      alignment: 9
+      pivot: {x: 0.45212185, y: 0.012890867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 10Beaver
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 106
+        width: 170
+        height: 217
+      alignment: 9
+      pivot: {x: 0.68550265, y: 0.07514338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2Stag1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2649
+        width: 140
+        height: 245
+      alignment: 9
+      pivot: {x: 0.4257795, y: 0.02606525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2Stag2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2652
+        width: 161
+        height: 245
+      alignment: 9
+      pivot: {x: 0.38245916, y: 0.02606525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2Stag3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2647
+        width: 167
+        height: 255
+      alignment: 9
+      pivot: {x: 0.3616976, y: 0.02077493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3Bear1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2320
+        width: 210
+        height: 262
+      alignment: 9
+      pivot: {x: 0.22558273, y: 0.013216208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3Bear2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2320
+        width: 210
+        height: 267
+      alignment: 9
+      pivot: {x: 0.23269217, y: 0.012977857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4Ram1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2023
+        width: 196
+        height: 232
+      alignment: 9
+      pivot: {x: 0.2972289, y: 0.028155096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4Ram2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2022
+        width: 207
+        height: 236
+      alignment: 9
+      pivot: {x: 0.30604854, y: 0.02791686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4Ram3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2022
+        width: 228
+        height: 240
+      alignment: 9
+      pivot: {x: 0.29149294, y: 0.024261983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5Lion1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1722
+        width: 261
+        height: 265
+      alignment: 9
+      pivot: {x: 0.60233516, y: 0.023589052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5Lion2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1720
+        width: 261
+        height: 265
+      alignment: 9
+      pivot: {x: 0.6016093, y: 0.022874134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 6Kangaroo1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1353
+        width: 265
+        height: 275
+      alignment: 9
+      pivot: {x: 0.55307096, y: 0.021086618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 6Kangaroo2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1325
+        width: 281
+        height: 319
+      alignment: 9
+      pivot: {x: 0.4082985, y: 0.032229338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7Monkey1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1063
+        width: 198
+        height: 210
+      alignment: 9
+      pivot: {x: 0.48764363, y: 0.04008789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7Monkey2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1068
+        width: 200
+        height: 207
+      alignment: 9
+      pivot: {x: 0.41710266, y: 0.03689531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7Monkey3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1063
+        width: 247
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4028125, y: 0.034808125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8Boar1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 759
+        width: 224
+        height: 233
+      alignment: 9
+      pivot: {x: 0.36345154, y: 0.015592256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8Boar2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 756
+        width: 209
+        height: 241
+      alignment: 9
+      pivot: {x: 0.33773118, y: 0.022823602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8Boar3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 761
+        width: 208
+        height: 236
+      alignment: 9
+      pivot: {x: 0.36746362, y: 0.023644399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9Bull1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 443
+        width: 249
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4318697, y: 0.012687878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9Bull2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 446
+        width: 248
+        height: 271
+      alignment: 9
+      pivot: {x: 0.44541538, y: 0.0128689585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 10Beaver1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 107
+        width: 184
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5970852, y: 0.07573524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 10Beaver2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 104
+        width: 200
+        height: 225
+      alignment: 9
+      pivot: {x: 0.52126527, y: 0.074157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
